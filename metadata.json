@@ -1,0 +1,6 @@
+{
+  "name": "Jameson",
+  "description": "Offline-first academic revision & task manager with spaced repetition, live voice AI tutor, encrypted notes, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
